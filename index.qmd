@@ -1,6 +1,6 @@
 ---
 title: "Edward Chick"
-description: "Data Analyst etc."
+description: "A data analyst of 9 years' experience in the NHS, specialising in using Python for analysis, machine learning modelling and automation. Currently looking for a career change, but one where I still get to make the most of my analytical expertise."
 format: html
 about:
     template: trestles
@@ -15,3 +15,12 @@ about:
           url: mailto:edward.chick@pm.me
 ---
 
+## Career Bio
+
+## Projects & Blog
+
+This is my first foray into making a portfolio website, and I hope to start filling it with personal data analysis / data science projects, as well as reflections on technology and beyond.
+
+Head to my [Projects](/projects_landing.qmd) and [Blog](/blog_landing.qmd) pages to see what I have been working on.
+
+## Personal

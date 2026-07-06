@@ -1,0 +1,15 @@
+---
+categories:
+- data
+- analysis
+- visualisation
+date: 2026-07-06
+description: How to make a start creating a Quarto-style blog
+title: A new beginning
+---
+
+Pre-amble rubric blurb
+
+## Any heading not the title
+
+Waffle & guff.
