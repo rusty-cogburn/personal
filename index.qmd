@@ -1,0 +1,17 @@
+---
+title: "Edward Chick"
+description: "Data Analyst etc."
+format: html
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/edward-chick-8ba753372
+        - icon: github
+          text: Github
+          url: https://github.com/rusty-cogburn
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:edward.chick@pm.me
+---
+
